@@ -1,4 +1,4 @@
-#About
+# About <br />
 This project demonstrates the landmark heuristic for motion planning on probabilistic roadmaps presented in the 2017 IROS paper:
 
 @article{Paden2017LandmarkGP, <br />
@@ -9,9 +9,9 @@ This project demonstrates the landmark heuristic for motion planning on probabil
   pages={4828-4834} <br />
 }<br /> 
 
-#Dependancies
+# Dependancies <br />
 This demo requires cmake and boost to run the demo. Plotting the results requires matplotlib.
 
-#Setup and Run
+# Setup and Run <br />
 Running build.sh will run cmake and compile the demo. Then run.sh will run the demo and plot the results saving them in the top-level directory.
 
